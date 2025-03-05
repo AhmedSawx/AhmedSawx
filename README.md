@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ahmad Suliman</h3>
+<h3 align="left">My name is Ahmed Suliman</h3>
 
 ###
 
